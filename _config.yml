@@ -6,7 +6,7 @@ email: sunyifan@uw.edu
 description: "Yifan Sun | 孙一璠，Data Scientist, Phd Stu, GISer  | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: Yifan Sun, 孙一璠, Circle, OSpider, UW, Geography, Yifan的博客, Yifan Blog
 url: "skytruine.github.io"              # your host, for absolute URL
-baseurl: "/about.html"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
