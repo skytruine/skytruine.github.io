@@ -1,14 +1,12 @@
-﻿---
+---
 layout:     post
-title:      "Industrial Land Use Efficiency_ Measurement, Evolution, the Role of Development Zones"
+title:      "Industrial Land Use Efficiency: Measurement, Evolution, the Role of Development Zones"
 date:       2020-01-01 12:00:00
-author:     "Circle"
+author:     "Yifan"
 catalog: true
 tags: [archived project]
 ---
 
-
-xyzxuyz
 # 1. Introduction
 &emsp;The purposes of this project are to systematically explore the measurement method and evolution mode of industrial land use efficiency (ILUE) and to elaborate the influence mechanism of development zones on ILUE. So far, one paper has been published, and the project has also provided solutions of inefficient industrial land identification and optimization for Hangzhou and Guangzhou.
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190805184323405.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NreXRydWluZQ==,size_16,color_FFFFFF,t_70)
@@ -38,7 +36,9 @@ xyzxuyz
  - Summarize and compare different measures of industrial land use efficiency, and proposed a usage-based method selection framework (in progress).
  - Discuss the evolution of land use efficiency of Chinese industrial enterprises from 1993 to 2013 (in progress).
 # 4. Publications
-[1][ Sun, Y., Su, S., Su, H., 2019. Does the establishment of development zones really improve industrial land use efficiency? Evidence from a typical Chinese megacity and policy implications. Land Use Policy.](https://file-1253725173.cos.ap-chengdu.myqcloud.com/PWeb/SPublication_J_EN_2019_2.pdf)
+[\[1\] Sun, Y., Su, S., Su, H., 2019. Does the establishment of development zones really improve industrial land use efficiency? Evidence from a typical Chinese megacity and policy implications. Land Use Policy. (In Press)](https://file-1253725173.cos.ap-chengdu.myqcloud.com/PWeb/SPublication_J_EN_2019_2.pdf)
+
+The other papers are in preparation~
 
 
 
