@@ -3,8 +3,8 @@ title: Yifan Blog
 SEOTitle: Yifan的博客 | Yifan Blog
 header-img: img/home-bg.jpg
 email: sunyifan@uw.edu
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: Yifan Sun, Hux黄玄, Hux, OSpider, UW, @huxpro, Yifan的博客, Yifan Blog
+description: "Yifan Sun | 孙一璠，Data Scientist, Phd Stu, GISer  | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+keyword: Yifan Sun, 孙一璠, Circle, OSpider, UW, Geography, Yifan的博客, Yifan Blog
 url: "skytruine.github.io"              # your host, for absolute URL
 baseurl: "/about.html"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
