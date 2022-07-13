@@ -1,31 +1,20 @@
-Hi，我是黄玄，前端娱乐圈 NPC，编程语言/编译器初心者，[Facebook](https://www.facebook.com/) 签约软件工程师，[广院](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%AA%92%E5%A4%A7%E5%AD%A6)认证数字设计师，曾被招募为阿里巴巴 · [阿里旅行（飞猪）](http://alitrip.com)· 前端工程师、微影时代 · 微票儿 · 前端基础设施工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) 等。
+Hi, 我是小圈 (孙一璠), 独立软件开发者/设计师，一名关注地理虚假信息与社会间复杂交互关系的博士生[@UW-Geogrpahy](https://geography.washington.edu/)。我在武汉大学取得了我GIS相关的学士和硕士学位，并曾作为数据科学家为抖音工作。我当前的研究主要关注如何理论化和解读社交媒体及更宽广环境下存在争议的卫星影像并为其提供诸如deepfake检测模型，fact-checking platform的社会-技术系统解决方案。
 
-目前的物理活动范围主要在美帝硅谷，分身日常出没于[博客](https://huangxuan.me)、[微博](https://weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](https://github.com/huxpro)、[Medium](https://medium.com/@Huxpro)。
+最新个人cv请于[此处获得](/file/Yifan_Sun_cv.pdf)，过往项目可于[archived project](https://sunyifan.net/archive/?tag=archived+project)中查阅。
+
+##### 代表性出版物
+- [Bo Zhao, Shaozeng Zhang, Chunxue Xu, **Yifan Sun** & Chengbin Deng (2021) Deep fake geography? When geospatial data encounter Artificial Intelligence, Cartography and Geographic Information Science, DOI: 10.1080/15230406.2021.1910075](https://www.tandfonline.com/doi/full/10.1080/15230406.2021.1910075)
+- [**Sun, Y.**, Ma, A., Su, H., Su, S., Chen, F., Wang, W., Weng, M., 2020. Does the establishment of development zones really improve industrial land use efficiency? Implications for China’s high-quality development policy. Land Use Policy, 104265.](https://www.sciencedirect.com/science/article/abs/pii/S0264837719311561)
+- [**Sun, Y.,** Li, J., Jin, X., Xiao, H., He, Z., Su, S., Weng, M., 2019. Intra-urban excessive alcohol drinking: Geographic disparities, associated neighborhood characteristics and implications for healthy city planning. Sustainable Cities and Society, 46, 101414.](https://www.sciencedirect.com/science/article/abs/pii/S2210670718321139)
+- [Pi, J., **Sun, Y.**, Xu, M., Su, S., & Weng, M. (2018). Neighborhood social determinants of public health: Analysis of three prevalent non-communicable chronic diseases in Shenzhen, China. Social Indicators Research, 135(2), 683-698.](https://link.springer.com/article/10.1007/s11205-016-1509-9)
+- [Su, S., **Sun, Y.**, Lei, C., Weng, M., & Cai, Z. (2017). Reorienting paradoxical land use policies towards coherence: A self-adaptive ensemble learning geo-simulation of tea expansion under different scenarios in subtropical China. Land Use Policy, 67, 415-425.](https://www.sciencedirect.com/science/article/abs/pii/S0264837717303058)
 
 
-##### [我的编程语言可视化 (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+##### 授课
+- [UW GEOG 482: GIS Data Management](https://geography.washington.edu/courses/2021/autumn/geog/482/aa) (TA:Autumn 2021)
+- [UW GEOG 465: GIS Database and Programmingetail](https://geography.washington.edu/courses/2022/spring/geog/465/ad) (TA:Spring 2022)
+- [UW GEOG 350: GIS and Mappingdetail](https://geography.washington.edu/courses/2022/winter/geog/360/aa) (TA: Winter 2021, Winter 2022, Summer 2022 )
 
-这个图表可视化了我对于各种编程语言的使用经历、兴趣，还附带了一些评语和解释等等。 啊我知道对比编程语言是一件很有争议的事情……自娱自乐一下！不要太较真哦 ;)
-
-
-##### 演讲与分享
-
-- [Upgrading to Progressive Web Apps][9] · [JSConf CN 上海 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI 广州 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux 北京 2017
-- 炒冷饭 · PWA 到底是个什么玩意？· Baidu HQ 北京 2017
-- [Service Worker 101][5] · GDG DevFest 北京 2016
-- [Progressive Web App，复兴序章][4] · [QCon 上海 2016](http://2016.qconshanghai.com/presentation/3111)
-- Progressive Web App 之我见 · GDG IO Redux 北京 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript 模块化七日谈][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+##### 相关新闻
+- [A growing problem of ‘deepfake geography’: How AI falsifies satellite images](https://www.washington.edu/news/2021/04/21/a-growing-problem-of-deepfake-geography-how-ai-falsifies-satellite-images/)
+- [Deepfake Maps Could Really Mess With Your Sense of the World](https://www.wired.com/story/deepfake-maps-mess-sense-world/)

@@ -1,6 +1,6 @@
 # Site settings
-title: Circle Blog
-SEOTitle: 小O的博客 | Circle Blog
+title: Yifan Blog
+SEOTitle: Yifan Blog | 一璠的博客
 header-img: img/home-bg.jpg
 email: sunyifan@uw.edu
 description: " 小O的O念圈| Data Scientist, Phd Stu, GISer | @circle 的个人博客，随意写写"
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: yifans-blog-1
 
 # Netease settings
 netease_comment: false
@@ -68,17 +68,17 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: [da8c647aa4e747740b467c12c4256bd7]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-234345053-1'            # Format: UA-xxxxxx-xx
+ga_domain: sunyifan.net
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "小圈, 华大Phd Stu <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
+sidebar-about-description: "小圈（孙一璠）, 独立开发者与设计师，关注地理虚假信息与社会交互关系的在读博士生@UW<br> Circle(Yifan Sun), A independent developer & designer, and a Ph.D. stu @UW focusing on the intertwined society and geographical misinformation."
 sidebar-avatar: /img/avatar-hux-home.jpg #https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

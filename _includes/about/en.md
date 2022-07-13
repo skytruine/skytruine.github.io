@@ -1,33 +1,20 @@
-Hi, I am _@huxpro_ (Huang, Xuan), an UI/Frontend engineer & designer, accidentally growing into a compiler hacker. My current interests range from programming languages theory and implementation in general (compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection) to software engineering in the tech industry (client-side web/mobile app development, server-side backend, user interface and UX, developer infrastructure and DX). 
+Hi, I am Yifan, an independent developer&designer and a Ph.D. stu @Geography,UW studying the intertwined society and geographical misinformation. I got my bachelor & master degree at Wuhan University in GIS and used to worked for Bytedance as a full-stack data scientist. Currently, my research focus on conceptualize, investigate and develop sociotechnial solutions to controversial satellite imagery (i.e. AI-generated satellite imagery, competing interpretations) in and beyond mass media systems.
 
-I'm currently working on the [Hermes JavaScript Engine](https://hermesengine.dev/) at [Facebook](http://facebook.com/). I was also involved in some of the [Facebook Reality Labs](https://tech.fb.com/ar-vr/) and the [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts. I'm also passionated about [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). 
+You can get my up-to-date cv [here](/file/Yifan_Sun_cv.pdf), and go through my past projects at [archived project](https://sunyifan.net/archive/?tag=archived+project).
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+##### Representative Publications
+- [Bo Zhao, Shaozeng Zhang, Chunxue Xu, **Yifan Sun** & Chengbin Deng (2021) Deep fake geography? When geospatial data encounter Artificial Intelligence, Cartography and Geographic Information Science, DOI: 10.1080/15230406.2021.1910075](https://www.tandfonline.com/doi/full/10.1080/15230406.2021.1910075)
+- [**Sun, Y.**, Ma, A., Su, H., Su, S., Chen, F., Wang, W., Weng, M., 2020. Does the establishment of development zones really improve industrial land use efficiency? Implications for China’s high-quality development policy. Land Use Policy, 104265.](https://www.sciencedirect.com/science/article/abs/pii/S0264837719311561)
+- [**Sun, Y.,** Li, J., Jin, X., Xiao, H., He, Z., Su, S., Weng, M., 2019. Intra-urban excessive alcohol drinking: Geographic disparities, associated neighborhood characteristics and implications for healthy city planning. Sustainable Cities and Society, 46, 101414.](https://www.sciencedirect.com/science/article/abs/pii/S2210670718321139)
+- [Pi, J., **Sun, Y.**, Xu, M., Su, S., & Weng, M. (2018). Neighborhood social determinants of public health: Analysis of three prevalent non-communicable chronic diseases in Shenzhen, China. Social Indicators Research, 135(2), 683-698.](https://link.springer.com/article/10.1007/s11205-016-1509-9)
+- [Su, S., **Sun, Y.**, Lei, C., Weng, M., & Cai, Z. (2017). Reorienting paradoxical land use policies towards coherence: A self-adaptive ensemble learning geo-simulation of tea expansion under different scenarios in subtropical China. Land Use Policy, 67, 415-425.](https://www.sciencedirect.com/science/article/abs/pii/S0264837717303058)
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
 
-##### [My PL Spectrum (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+##### Courses Taught
+- [UW GEOG 482: GIS Data Management](https://geography.washington.edu/courses/2021/autumn/geog/482/aa) (TA:Autumn 2021)
+- [UW GEOG 465: GIS Database and Programmingetail](https://geography.washington.edu/courses/2022/spring/geog/465/ad) (TA:Spring 2022)
+- [UW GEOG 350: GIS and Mappingdetail](https://geography.washington.edu/courses/2022/winter/geog/360/aa) (TA: Winter 2021, Winter 2022, Summer 2022 )
 
-I made a chart to visualize my experiences and interests on some of the programming languages. I know. I know this is always contraversial. But it's just something quite self-entertaining to do. So bare with me and have fun reading that!
-
-##### Appearence
-
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
-
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+##### Related News
+- [A growing problem of ‘deepfake geography’: How AI falsifies satellite images](https://www.washington.edu/news/2021/04/21/a-growing-problem-of-deepfake-geography-how-ai-falsifies-satellite-images/)
+- [Deepfake Maps Could Really Mess With Your Sense of the World](https://www.wired.com/story/deepfake-maps-mess-sense-world/)
